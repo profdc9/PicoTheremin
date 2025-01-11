@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.11+dfsg-1build4"
     },
-    "CreationDate": "2025-01-10T21:05:51-06:00"
+    "CreationDate": "2025-01-11T13:27:16-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "MCTheremin",
-      "GUID": "4d435468-6572-4656-9d69-6e2e6b696361",
+      "Name": "InductorAntenna",
+      "GUID": "496e6475-6374-46f7-9241-6e74656e6e61",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 100.15,
-      "Y": 100.15
+      "X": 100.05,
+      "Y": 100.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -27,44 +27,52 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.35,
-      "TrackToRegion": 0.5,
-      "RegionToRegion": 0.5
+      "MinLineWidth": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "MCTheremin-F_Cu.gbr",
+      "Path": "InductorAntenna-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MCTheremin-B_Cu.gbr",
+      "Path": "InductorAntenna-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MCTheremin-F_Silkscreen.gbr",
+      "Path": "InductorAntenna-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "InductorAntenna-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "InductorAntenna-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MCTheremin-B_Silkscreen.gbr",
+      "Path": "InductorAntenna-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MCTheremin-F_Mask.gbr",
+      "Path": "InductorAntenna-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MCTheremin-B_Mask.gbr",
+      "Path": "InductorAntenna-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MCTheremin-Edge_Cuts.gbr",
+      "Path": "InductorAntenna-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

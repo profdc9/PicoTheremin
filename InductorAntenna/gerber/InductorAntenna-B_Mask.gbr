@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.11+dfsg-1build4*%
+%TF.CreationDate,2025-01-11T13:27:16-06:00*%
+%TF.ProjectId,InductorAntenna,496e6475-6374-46f7-9241-6e74656e6e61,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.11+dfsg-1build4) date 2025-01-11 13:27:16*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,10.160000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H3*%
+X57000000Y-128000000D03*
+%TD*%
+%TO.C,H2*%
+X57000000Y-106000000D03*
+%TD*%
+%TO.C,H1*%
+X57000000Y-85000000D03*
+%TD*%
+%TO.C,J3*%
+X57000000Y-142000000D03*
+%TD*%
+%TO.C,J1*%
+X57000000Y-58000000D03*
+%TD*%
+%TO.C,J2*%
+X57000000Y-71000000D03*
+%TD*%
+M02*
